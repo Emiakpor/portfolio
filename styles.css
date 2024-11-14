@@ -72,6 +72,10 @@ h1 {
   height: 150px;
 }
 
+.project-item a {
+  text-decoration: none;
+}
+
 footer {
   display: inline-block;
   width: 100%;
